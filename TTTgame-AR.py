@@ -154,4 +154,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-# I spent 1 hour and 30 minutes creating this code for the "Tic-Tac-Toe" OIT Application Engineering Code Challenge
+# I spent 1 hour and 30 minutes creating this code for the "Tic-Tac-Toe" Code Challenge
